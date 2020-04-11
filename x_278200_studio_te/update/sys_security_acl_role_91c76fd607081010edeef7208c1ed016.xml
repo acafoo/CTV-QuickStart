@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-10 23:48:34</sys_created_on>
+        <sys_id>91c76fd607081010edeef7208c1ed016</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_278200_studio_te_studio_asset.x_278200_studio_te.studio_asset_user</sys_name>
+        <sys_package display_value="Studio Test App" source="x_278200_studio_te">94f5a39607081010edeef7208c1ed000</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Studio Test App">94f5a39607081010edeef7208c1ed000</sys_scope>
+        <sys_security_acl display_value="x_278200_studio_te_studio_asset">15c76fd607081010edeef7208c1ed013</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_91c76fd607081010edeef7208c1ed016</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-10 23:48:34</sys_updated_on>
+        <sys_user_role display_value="x_278200_studio_te.studio_asset_user" name="x_278200_studio_te.studio_asset_user">81c7a7d607081010edeef7208c1ed0fa</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

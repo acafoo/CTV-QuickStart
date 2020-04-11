@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="alm_asset" label="Studio Asset" max_length="40" name="x_278200_studio_te_studio_asset" type="collection"/>
+</database>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_278200_studio_te.studio_asset_user" name="x_278200_studio_te.studio_asset_user">81c7a7d607081010edeef7208c1ed0fa</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-10 23:48:33</sys_created_on>
+        <sys_id>8dc7a7d607081010edeef7208c1ed0fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>81c7a7d607081010edeef7208c1ed0fa</sys_name>
+        <sys_package display_value="Studio Test App" source="x_278200_studio_te">94f5a39607081010edeef7208c1ed000</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Studio Test App">94f5a39607081010edeef7208c1ed000</sys_scope>
+        <sys_update_name>sys_embedded_help_role_8dc7a7d607081010edeef7208c1ed0fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-10 23:48:33</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
